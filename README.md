@@ -1,5 +1,6 @@
 ## Hey There!
 ![My Profile Image from DevTo](https://res.cloudinary.com/practicaldev/image/fetch/s--cHfZFAIc--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/148241/9d31cfcf-4d96-41db-9c5f-03dd64116445.jpg)
+
 Myself **Arindam**, a Software Engineer who loves building user interfaces. In the quest to learn, unlearn and re-learn things. 
 
 Feel free to check out my technical blog [TabAndSpace](https://tabandspace.com). 
