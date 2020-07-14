@@ -9,4 +9,5 @@ I also post on [Dev.to](https://dev.to)
 You can check out my latest articles here:
 
 <!-- dev -->
+[30 Days of Python 👨‍💻 - Day 23 - Web Scraping](https://dev.to/arindamdawn/30-days-of-python-day-23-web-scraping-1j58)
 <!-- devend -->
