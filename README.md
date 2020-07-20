@@ -9,5 +9,5 @@ I also post on [Dev.to](https://dev.to)
 You can check out my latest article here:
 
 <!-- dev -->
-[30 Days of Python 👨‍💻 - Day 27 - ML & Data Science I](https://dev.to/arindamdawn/30-days-of-python-day-27-ml-data-science-i-1l4m)
+[30 Days of Python 👨‍💻 - Day 28- ML & Data Science II](https://dev.to/arindamdawn/30-days-of-python-day-28-ml-data-science-ii-2739)
 <!-- devend -->
