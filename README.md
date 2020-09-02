@@ -9,5 +9,5 @@ I also post on [Dev.to](https://dev.to)
 You can check out my latest article here:
 
 <!-- dev -->
-[30 Days of Python 👨‍💻 - Day 30 - Free Python Resources](https://dev.to/arindamdawn/30-days-of-python-day-30-free-python-resources-2mam)
+[30 Days of Python 👨‍💻 - Day 19 - Regular Expressions](https://dev.to/arindamdawn/30-days-of-python-day-19-regular-expressions-3jkj)
 <!-- devend -->
