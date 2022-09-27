@@ -9,5 +9,5 @@ I also post on [Dev.to](https://dev.to)
 You can check out my latest article here:
 
 <!-- dev -->
-[Frontend Shots - Web Workers](https://dev.to/arindamdawn/frontend-shots-web-workers-4cli)
+[30 Days of Python 👨‍💻 - Day 24 - Web Development Basics](https://dev.to/arindamdawn/30-days-of-python-day-24-web-scraping-45dc)
 <!-- devend -->
