@@ -9,5 +9,5 @@ I also post on [Dev.to](https://dev.to)
 You can check out my latest article here:
 
 <!-- dev -->
-[30 Days of Python 👨‍💻 - Day 21 - Scripting Basics](https://dev.to/arindamdawn/30-days-of-python-day-21-scripting-basics-32hn)
+[30 Days of Python 👨‍💻 - Day 20 - Debugging and Testing](https://dev.to/arindamdawn/30-days-of-python-day-19-debugging-and-testing-4274)
 <!-- devend -->
